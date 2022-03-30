@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Checkbox@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="HP_HoverState" transform="translate(-873.000000, -129.000000)" fill="#F9CB1C" fill-rule="nonzero">
+            <g id="Map" transform="translate(490.000000, 88.000000)">
+                <g id="Search" transform="translate(343.000000, 28.000000)">
+                    <path d="M48.5416629,24.5848183 C48.3958652,24.7298937 48.2045843,24.8095324 48,24.8095324 C47.7945169,24.8095324 47.6019775,24.7298937 47.4574382,24.5848183 L44.4449438,21.5729309 C44.1452584,21.2736118 44.1452584,20.788589 44.4449438,20.4894497 C44.7440899,20.1895912 45.2284045,20.1895912 45.5280899,20.488371 L47.9991011,22.9602256 L54.5479551,16.4120582 C53.1005843,14.3508011 50.7099326,13 48,13 C43.5816629,13 40,16.5817622 40,21 C40,25.4182378 43.5816629,29 48,29 C52.4183371,29 56,25.4184176 56,21 C56,19.8606099 55.7580225,18.7789263 55.3288989,17.7977349 L48.5416629,24.5848183 Z" id="Checkbox"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

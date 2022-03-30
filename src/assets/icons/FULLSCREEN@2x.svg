@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>FULLSCREEN@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="HP_HoverState" transform="translate(-1306.000000, -208.000000)" fill="#333333" fill-rule="nonzero">
+            <g id="Map" transform="translate(490.000000, 88.000000)">
+                <g id="Full-Screen" transform="translate(809.000000, 113.000000)">
+                    <g id="FULLSCREEN" transform="translate(6.383435, 6.385265)">
+                        <polygon id="Path" points="8.61656501 26.6147347 0.616565006 26.6147347 0.616565006 18.6147347 1.36240824 18.6147347 1.36240824 25.868505 8.61656501 25.868505"></polygon>
+                        <polygon id="Rectangle" transform="translate(5.954634, 21.276111) rotate(44.975691) translate(-5.954634, -21.276111) " points="5.60274121 14.3220734 6.30652763 14.3220734 6.30652763 28.2301481 5.60274121 28.2301481"></polygon>
+                        <polygon id="Path" points="26.616565 8.61473468 25.870291 8.61473468 25.870291 1.36053363 18.616565 1.36053363 18.616565 0.614734682 26.616565 0.614734682"></polygon>
+                        <polygon id="Rectangle" transform="translate(21.277779, 5.953141) rotate(44.975691) translate(-21.277779, -5.953141) " points="20.9258854 -1 21.6296718 -1 21.6296718 12.9062817 20.9258854 12.9062817"></polygon>
+                        <polygon id="Path" points="1.36223112 8.61473468 0.616565006 8.61473468 0.616565006 0.614734682 8.61656501 0.614734682 8.61656501 1.36062221 1.36223112 1.36062221"></polygon>
+                        <polygon id="Rectangle" transform="translate(5.954261, 5.952242) rotate(45.000000) translate(-5.954261, -5.952242) " points="-1 5.60034885 12.9085218 5.60034885 12.9085218 6.3041352 -1 6.3041352"></polygon>
+                        <polygon id="Path" points="26.616565 26.6147347 18.616565 26.6147347 18.616565 25.8684164 25.870291 25.8684164 25.870291 18.6147347 26.616565 18.6147347"></polygon>
+                        <polygon id="Rectangle" transform="translate(21.278736, 21.276744) rotate(45.008103) translate(-21.278736, -21.276744) " points="14.3253714 20.9248506 28.2321002 20.9248506 28.2321002 21.628637 14.3253714 21.628637"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

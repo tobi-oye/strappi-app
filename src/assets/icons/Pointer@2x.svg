@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="43px" viewBox="0 0 32 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Pointer@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.8">
+        <g id="HP_HoverState" transform="translate(-1293.000000, -329.000000)" fill="#FFD94D">
+            <g id="Map" transform="translate(490.000000, 88.000000)">
+                <path d="M819,241 C827.778761,241 835,248.072368 835,256.983553 C835,264.197368 830.185841,268.582237 826.079646,274.240132 L819,284 L811.778761,274.240132 C807.672566,268.582237 803,264.197368 803,256.983553 C803,248.072368 810.079646,241 819,241 Z M819,249.769737 C822.964602,249.769737 826.079646,253.023026 826.079646,256.983553 C826.079646,260.944079 822.964602,264.055921 819,264.055921 C815.035398,264.055921 811.778761,260.944079 811.778761,256.983553 C811.778761,253.023026 815.035398,249.769737 819,249.769737 Z" id="Pointer"></path>
+            </g>
+        </g>
+    </g>
+</svg>

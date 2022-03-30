@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@algolia/autocomplete-js": "^1.5.4",
+    "@algolia/autocomplete-plugin-query-suggestions": "^1.5.4",
+    "@algolia/autocomplete-theme-classic": "^1.5.4",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^12.0.0",
     "@testing-library/user-event": "^13.2.1",
@@ -10,14 +13,21 @@
     "@types/node": "^16.7.13",
     "@types/react": "^17.0.20",
     "@types/react-dom": "^17.0.9",
+    "@types/react-instantsearch-dom": "^6.12.2",
+    "@types/styled-components": "^5.1.24",
+    "algoliasearch": "^4.13.0",
+    "mapbox-gl": "^2.7.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-instantsearch-dom": "^6.23.0",
+    "react-map-gl": "^7.0.10",
     "react-scripts": "5.0.0",
+    "styled-components": "^5.3.5",
     "typescript": "^4.4.2",
     "web-vitals": "^2.1.0"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "PORT=3006 react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
